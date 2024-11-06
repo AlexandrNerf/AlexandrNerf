@@ -1,11 +1,11 @@
 # Welcome here! 👋
 
-
+<img src="https://wallpapers.com/images/hd/nausicaa-of-the-valley-of-the-wind-2489-x-700-wallpaper-9oi9zc1u9xzqm9ky.jpg">
 
 <br>
 
 ```python
-import github as gh
+import gitprofile as gh
 
 github_profile = gh.load_profile("my_profile/AlexandrNerf.prf")
 

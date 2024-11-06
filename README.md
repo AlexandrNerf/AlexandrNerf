@@ -106,3 +106,8 @@ __Other programms:__
 
 
 ## Thanks for your attention! 🎲
+
+```python
+github_profile.flush()
+print("Goodbye!")
+```

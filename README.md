@@ -17,7 +17,7 @@ github_profile.show(my_repo)
 <div align='center'>
   
 [![Telegr](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Nerfmanich)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](a.varnakin@g.nsu.ru)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)]()
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 
@@ -25,25 +25,30 @@ github_profile.show(my_repo)
 
 <br>
 
-# I'm Alex, a third year NSU student and novice ML/CV specialist 💼
+# I'm Alex, a junior ML/CV specialist and third year NSU student 💼
 
 In this profile I will publish my 
-```projects```
-from work and university
+`projects`
+from work and university (which is not under NDA)
 
 ## My current acitivies 📝
 
-- Practicing in SHIFT-Laboratory
-  
+- Working as junior DL researcher (3D CV)
+- Practicing in laboratory (OCR task)
 - Studying in University
 
 ## My fields of interest 📚
 
-- AI (<b>Generative CV</b>, CV, NLP, Data Science)
+- Deep Learning (3D and generative CV), NLP
+- Gamedev (Godot, Roguelikes and etc.)
 
-- Gamedev (Godot and etc.)
+## Current projects and achievements 🏢
 
-- Prompt Engineering
+- 3D Reconstruction based on Deep Learning (Closed)
+- OCR service for KZ/RU/EN languages with API support (Closed)
+- Diffisuion Consistency Distilation (Yandex CV Week course)
+- GAN pipeline for synthetic OCR data (Test Laboratory task)
+- Roguelike game on Godot
 
 ## Technologies I use 💻
 

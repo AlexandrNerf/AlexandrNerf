@@ -44,8 +44,8 @@ from work and university (which is not under NDA)
 
 ## Current projects and achievements 🏢
 
-- 3D Reconstruction based on Deep Learning (Closed)
-- OCR service for KZ/RU/EN languages with API support (Closed)
+- 3D Deep Learning task
+- OCR service for KZ/RU/EN languages with API support
 - Diffisuion Consistency Distilation (Yandex CV Week course)
 - GAN pipeline for synthetic OCR data (Test Laboratory task)
 - Roguelike game on Godot

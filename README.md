@@ -29,7 +29,7 @@ github_profile.show(my_repo)
 
 In this profile I will publish my 
 `projects`
-from work and university (which is not under NDA)
+from study and university
 
 ## My current acitivies 📝
 

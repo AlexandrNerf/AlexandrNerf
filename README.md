@@ -25,7 +25,7 @@ github_profile.show(my_repo)
 
 <br>
 
-# I'm Alex, a junior ML/CV specialist and third year NSU student 💼
+# I'm Alex, a junior ML/CV specialist and fourth year NSU student 💼
 
 In this profile I will publish my 
 `projects`
@@ -33,13 +33,12 @@ from study and university
 
 ## My current acitivies 📝
 
-- Working as junior DL researcher (3D CV)
-- Practicing in laboratory (OCR task)
+- Working as DL engineer in Koronatech
 - Studying in University
 
 ## My fields of interest 📚
 
-- Deep Learning (3D and generative CV), NLP
+- Deep Learning (Computer vision, OCR, 3D and generative CV), NLP
 - Gamedev (Godot, Roguelikes and etc.)
 
 ## Current projects and achievements 🏢

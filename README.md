@@ -17,7 +17,6 @@ github_profile.show(my_repo)
 <div align='center'>
   
 [![Telegr](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Nerfmanich)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](a.varnakin@g.nsu.ru)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)]()
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 
@@ -25,7 +24,7 @@ github_profile.show(my_repo)
 
 <br>
 
-# I'm Alex, a junior ML/CV specialist and fourth year NSU student 💼
+# Hi, I'm Alex, applied CV Engineer 💼
 
 In this profile I will publish my 
 `projects`
@@ -33,8 +32,8 @@ from study and university
 
 ## My current acitivies 📝
 
-- Working as DL engineer in Koronatech
-- Studying in University
+- Working as CV engineer in OCR field
+- Researching 3D CV
 
 ## My fields of interest 📚
 
@@ -45,8 +44,8 @@ from study and university
 
 - 3D Deep Learning task
 - OCR service for KZ/RU/EN languages with API support
-- Diffisuion Consistency Distilation (Yandex CV Week course)
-- GAN pipeline for synthetic OCR data (Test Laboratory task)
+- Diffisuion Consistency Distilation
+- GAN pipeline for synthetic OCR data
 - Roguelike game on Godot
 
 ## Technologies I use 💻
